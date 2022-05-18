@@ -1,4 +1,4 @@
-## LEGEND MUSIC USERBOT 
+## SATYA MUSICROBOT 
 
 
 ## 🚀 <a name="deploy"></a>Deploy
@@ -8,12 +8,12 @@
 
 -------------
 
-## [REPL](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py)
+## [REPL](https://replit.com/@SATYA-OP/SATYABOT#main.py)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-AI/LEGEND-MUSIC
-$ cd LEGEND-MUSIC
+$ git clone https://github.com/SATYA-OP/SATYA-MUSIC
+$ cd SATYA-MUSIC
 $ cp sample.env .env
 < edit .env with your own values >
 $ sudo docker build . -t musicplayer
