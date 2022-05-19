@@ -11,8 +11,8 @@ COPY requirements.txt /requirements.txt
 RUN cd /
 RUN pip3 install --upgrade pip
 RUN pip3 install -U -r requirements.txt
-RUN mkdir /LEGEND-MUSIC
-WORKDIR /LEGEND-MUSIC
+RUN mkdir /SATYA-MUSIC
+WORKDIR /SATYA-MUSIC
 COPY startup.sh /startup.sh
 
 # Running Music Player Bot
