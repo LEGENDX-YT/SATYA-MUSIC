@@ -1,7 +1,7 @@
 {
-    "name": "Music Bot",
+    "name": "Satya Music Bot",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "logo": "https://github.com/LEGEND-AI/LEGEND-MUSIC/raw/master/theme/logo.png",
+    "logo": "https://github.com/SATYA-OP/SATYA-MUSIC/raw/master/theme/logo.png",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -12,7 +12,7 @@
       "python",
       "pyrogram",
       "py-tgcalls",
-      "LEGEND-MUSIC"
+      "SATYA-MUSIC"
     ],
     "env": {
       "API_ID": {
